@@ -1,6 +1,6 @@
 # Capstone-IS03_PT-SureBoTv2
 
-This project is an extension of SureBotv1 (https://github.com/adrielkuek/IRS-PM-2021-01-16-ISY5001PT-SureBoT)
+This project is an extension of SureBotv1 (https://github.com/hzchua/ISY5001-SureBoT)
 
 ## SECTION 1: PROJECT TITLE
 
